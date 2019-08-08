@@ -1,6 +1,7 @@
 # eb-tomcat-snakes# this is my first commit and git project
 ##added the new build in existing build
 #------------------------------------------------------------#
+this is testing for the jenkins free style pipeline.
 
 Tomcat application that shows the use of RDS in a Java EE web application in AWS Elastic Beanstalk. The project shows the use of Servlets, JSPs, Simple Tag Support, Tag Files, JDBC, SQL, Log4J, Bootstrap, Jackson, and Elastic Beanstalk configuration files.
 
