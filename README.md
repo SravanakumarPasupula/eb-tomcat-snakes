@@ -1,4 +1,4 @@
-# eb-tomcat-snakes# this is my secong trail on webhook
+# eb-tomcat-snakes# this is my first commit and git project
 
 
 Tomcat application that shows the use of RDS in a Java EE web application in AWS Elastic Beanstalk. The project shows the use of Servlets, JSPs, Simple Tag Support, Tag Files, JDBC, SQL, Log4J, Bootstrap, Jackson, and Elastic Beanstalk configuration files.
